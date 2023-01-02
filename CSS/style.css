@@ -1,0 +1,109 @@
+p{
+    color: brown;
+    width: 300px;
+    height: 40%;
+    background-color: cornflowerblue;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+}
+
+li{
+    color: blue;
+    width: 300px;
+    height: 40%;
+    background-color: cyan;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+
+.heading{
+    color: darkblue;
+    width: 300px;
+    height: 40%;
+    background-color: burlywood;
+    text-align: center;
+}
+
+
+
+
+ #green{
+    color: green;
+ }   
+
+ .red{
+    color: red;
+ }
+
+ .hot{
+    color: purple;
+ }
+
+ li.hot{
+    font-weight: lighter;
+ }
+
+
+ .blog{
+    background-color: lightsalmon;
+    border: 5px solid red;
+    border-radius: 38%;
+    text-align: center;
+    /* text-align: center; */
+    margin: 10px;
+    padding: 50px;
+
+    /* width: 200px; */
+    height: 5%;
+
+    
+ }
+
+ /* .blog:hover{
+      transition: none;
+      opacity: 0.5;
+      
+ } */
+
+
+ .header{
+    /* width: 270px; */
+
+
+    height: 250px;
+    /* background-image: url(./images/download.jfif); */
+    background-image: url(./images/IMG-20220205-WA0003.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-blend-mode:multiply; */
+    /* background-color: brown; */
+    /* background-image: linear-gradient(red, yellow, green); */
+    /* background-image: repeating-linear-gradient(red, yellow); */
+    background-position: bottom;
+    
+
+ }
+
+ h3{
+    text-decoration: overline solid blue;
+    color: red;
+    text-align: center;
+    /* background-origin:content-box; */
+    
+ }
+
+ h2{
+   color:gold;
+   text-align: center;
+   height: auto;
+ }
+
+ #color{
+   color: lime;
+ }
+ 
